@@ -1,4 +1,3 @@
-<img width="1253" height="721" alt="image" src="https://github.com/user-attachments/assets/508493ad-8a73-4b44-a5b1-f8fa6af408b5" /># GKE-Cluster-Notification-Pub-Sub-Application-Integration-Email
 GKE Cluster Notification + Pub/Sub + Application Integration → Email
 ## 一、總體目標
 
