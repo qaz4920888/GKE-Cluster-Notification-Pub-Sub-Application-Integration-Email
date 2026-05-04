@@ -21,8 +21,7 @@ GKE Cluster Notification + Pub/Sub + Application Integration → Email
 ### 1️⃣ 建立 Pub/Sub Topic
 
 ```bash
-bash
-複製編輯
+
 gcloud pubsub topics create gke-cluster-events
 
 控制台
